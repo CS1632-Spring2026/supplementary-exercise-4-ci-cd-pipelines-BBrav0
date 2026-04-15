@@ -39,7 +39,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Apache Maven Packages</name>
-      <url>https://maven.pkg.github.com/CS1632-Spring2026/cs1632-spring2026-supplementary-exercise-4-ci-cd-pipelines-CS1632_CICD_JUnit</url>
+      <url>https://maven.pkg.github.com/CS1632-Spring2026/supplementary-exercise-4-ci-cd-pipelines-BBrav0</url>
     </repository>
   </distributionManagement>
 
